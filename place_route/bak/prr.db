@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tables>
+    <table id="pnr_messages" title="Place &amp; Route Messages" column_number="1">
+        <column_headers/>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Parameter configuration file E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/testparam.txt cannot open.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="6" bold="0">ConstraintEditor-2001: [E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/device_map/top.pcf(line number: 67)] Object 'cmos_db[0]' is dangling, which has no connection. it will be ignored.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="6" bold="0">ConstraintEditor-2001: [E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/device_map/top.pcf(line number: 68)] Object 'cmos_db[1]' is dangling, which has no connection. it will be ignored.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="6" bold="0">ConstraintEditor-2001: [E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/device_map/top.pcf(line number: 69)] Object 'cmos_db[2]' is dangling, which has no connection. it will be ignored.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="6" bold="0">ConstraintEditor-2001: [E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/device_map/top.pcf(line number: 70)] Object 'cmos_db[3]' is dangling, which has no connection. it will be ignored.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="6" bold="0">ConstraintEditor-2001: [E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/device_map/top.pcf(line number: 71)] Object 'cmos_db[4]' is dangling, which has no connection. it will be ignored.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="6" bold="0">ConstraintEditor-2001: [E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/device_map/top.pcf(line number: 72)] Object 'cmos_db[5]' is dangling, which has no connection. it will be ignored.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="6" bold="0">ConstraintEditor-2001: [E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/device_map/top.pcf(line number: 73)] Object 'cmos_db[6]' is dangling, which has no connection. it will be ignored.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="6" bold="0">ConstraintEditor-2001: [E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/device_map/top.pcf(line number: 74)] Object 'cmos_db[7]' is dangling, which has no connection. it will be ignored.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="6" bold="0">ConstraintEditor-2001: [E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/device_map/top.pcf(line number: 75)] Object 'cmos_href' is dangling, which has no connection. it will be ignored.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="6" bold="0">ConstraintEditor-2001: [E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/device_map/top.pcf(line number: 76)] Object 'cmos_pclk' is dangling, which has no connection. it will be ignored.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="6" bold="0">ConstraintEditor-2001: [E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/device_map/top.pcf(line number: 77)] Object 'cmos_vsync' is dangling, which has no connection. it will be ignored.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">ConstraintEditor-4019: Port 'ddr_init_done' unspecified I/O constraint.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">ConstraintEditor-4019: Port 'ddrphy_rst_done' unspecified I/O constraint.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">ConstraintEditor-4019: Port 'pll_lock' unspecified I/O constraint.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="7" bold="0">Place-0006: The ISP/judge_single1_inst/feature_inst/N24_0/gopapm cannot be placed.</data>
+        </row>
+    </table>
+    <general_container id="pnr_settings" align="1">
+        <table_container>
+            <table id="pnr_settings" title="Place &amp; Route Settings" column_number="2">
+                <column_headers>
+                    <data>Name</data>
+                    <data>Value</data>
+                </column_headers>
+                <row>
+                    <data>Part</data>
+                    <data>PGL22G-6MBG324</data>
+                </row>
+                <row>
+                    <data>Top Module</data>
+                    <data>top</data>
+                </row>
+            </table>
+        </table_container>
+        <general_container align="3">
+            <table_container>
+                <data>General</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>Mode</data>
+                        <data>fast</data>
+                    </row>
+                    <row>
+                        <data>Optimize Multi-Corner Timing</data>
+                        <data>OFF</data>
+                    </row>
+                    <row>
+                        <data>Place Only</data>
+                        <data>OFF</data>
+                    </row>
+                    <row>
+                        <data>Optimize Hold Timing</data>
+                        <data>OFF</data>
+                    </row>
+                    <row>
+                        <data>Max Optimize Hold Timing Iterations</data>
+                        <data>500</data>
+                    </row>
+                    <row>
+                        <data>Fix Hold Violation Threshold(ps)</data>
+                        <data>0</data>
+                    </row>
+                </table>
+            </table_container>
+            <table_container>
+                <data>Placement</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>Placement Decongestion Mode</data>
+                        <data>9</data>
+                    </row>
+                    <row>
+                        <data>Placement Initial Method</data>
+                        <data>Quad</data>
+                    </row>
+                    <row>
+                        <data>Early Block Placement</data>
+                        <data>TRUE</data>
+                    </row>
+                    <row>
+                        <data>Auto Dispose Macro Object</data>
+                        <data>TRUE</data>
+                    </row>
+                    <row>
+                        <data>Dispose DRM Prior</data>
+                        <data>TRUE</data>
+                    </row>
+                    <row>
+                        <data>Dispose APM Prior</data>
+                        <data>TRUE</data>
+                    </row>
+                    <row>
+                        <data>Dispose Distribute-RAM Prior</data>
+                        <data>FALSE</data>
+                    </row>
+                    <row>
+                        <data>Dispose Carry Chain Prior</data>
+                        <data>FALSE</data>
+                    </row>
+                    <row>
+                        <data>Design Cells Duplication</data>
+                        <data>TRUE</data>
+                    </row>
+                    <row>
+                        <data>RefinePlacement Cluster</data>
+                        <data>TRUE</data>
+                    </row>
+                    <row>
+                        <data>RefinePlacement Iteration</data>
+                        <data>30</data>
+                    </row>
+                    <row>
+                        <data>Enable Recovery Analysis in GP</data>
+                        <data>OFF</data>
+                    </row>
+                    <row>
+                        <data>Enable Recovery Analysis in DP</data>
+                        <data>OFF</data>
+                    </row>
+                    <row>
+                        <data>Enable Recovery Analysis in RP</data>
+                        <data>OFF</data>
+                    </row>
+                </table>
+            </table_container>
+            <table_container>
+                <data>Router</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>Enable Fast Router</data>
+                        <data>TRUE</data>
+                    </row>
+                    <row>
+                        <data>Reduce CE/RS signal</data>
+                        <data>TRUE</data>
+                    </row>
+                    <row>
+                        <data>CE/RS signal series limit</data>
+                        <data>500</data>
+                    </row>
+                    <row>
+                        <data>Slack Prior In Global router</data>
+                        <data>TRUE</data>
+                    </row>
+                    <row>
+                        <data>Slack Weight</data>
+                        <data>90</data>
+                    </row>
+                    <row>
+                        <data>Pin Cost Increasing Speed</data>
+                        <data>600</data>
+                    </row>
+                    <row>
+                        <data>Max iterations in congest mode</data>
+                        <data>200</data>
+                    </row>
+                    <row>
+                        <data>Dump Router Congestion Plot</data>
+                        <data>FALSE</data>
+                    </row>
+                    <row>
+                        <data>Enable Recovery Analysis in Routing</data>
+                        <data>OFF</data>
+                    </row>
+                    <row>
+                        <data>Check Clock Net Routing Path</data>
+                        <data>TRUE</data>
+                    </row>
+                </table>
+            </table_container>
+            <table_container>
+                <data>Multi-Run</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>Global Placement Random Seed</data>
+                        <data>0</data>
+                    </row>
+                    <row>
+                        <data>Placement Iterations</data>
+                        <data>1</data>
+                    </row>
+                    <row>
+                        <data>Placement Random Seed Step</data>
+                        <data>1</data>
+                    </row>
+                    <row>
+                        <data>Placement Save Best Run</data>
+                        <data>1</data>
+                    </row>
+                    <row>
+                        <data>Maximum Number Of Mutil-seed Running In Parallel</data>
+                        <data>1</data>
+                    </row>
+                    <row>
+                        <data>Filter Strategies</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Sort Strategy</data>
+                        <data>setup</data>
+                    </row>
+                    <row>
+                        <data>Generate Bitstream In Multi-seed Mode</data>
+                        <data>FALSE</data>
+                    </row>
+                </table>
+            </table_container>
+        </general_container>
+    </general_container>
+</tables>

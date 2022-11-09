@@ -1,0 +1,71 @@
+##### Written on 2022/07/22 10:49:25 ###############################
+
+
+##### DESIGN INFO ##################################################
+
+Top Module:
+	top
+
+Constraint File(s):
+	E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/ddr3_ov5640_hdmi.fdc
+	
+
+##### SUMMARY ######################################################
+
+Found 0 error(s), 8 critical warning(s), 3 warning(s), out of 609 constraint(s)
+
+
+Inapplicable constraints(except overwritten constraints):
+********************************************
+
+
+
+
+
+
+Constraints with issues:
+********************************************
+
+
+
+define_attribue {cmos_db[0]} {PAP_IO_LOC} {E18}
+	C: ConstraintEditor-2002: [E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/ddr3_ov5640_hdmi.fdc(line number: 283)] | Port cmos_db[0] has been placed at location E18, whose type is share pin.
+
+define_attribue {cmos_db[1]} {PAP_IO_LOC} {D18}
+	C: ConstraintEditor-2002: [E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/ddr3_ov5640_hdmi.fdc(line number: 290)] | Port cmos_db[1] has been placed at location D18, whose type is share pin.
+
+define_attribue {cmos_db[2]} {PAP_IO_LOC} {F14}
+	C: ConstraintEditor-2002: [E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/ddr3_ov5640_hdmi.fdc(line number: 297)] | Port cmos_db[2] has been placed at location F14, whose type is share pin.
+
+define_attribue {cmos_db[4]} {PAP_IO_LOC} {E17}
+	C: ConstraintEditor-2002: [E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/ddr3_ov5640_hdmi.fdc(line number: 311)] | Port cmos_db[4] has been placed at location E17, whose type is share pin.
+
+define_attribue {cmos_db[5]} {PAP_IO_LOC} {D17}
+	C: ConstraintEditor-2002: [E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/ddr3_ov5640_hdmi.fdc(line number: 318)] | Port cmos_db[5] has been placed at location D17, whose type is share pin.
+
+define_attribue {cmos_db[6]} {PAP_IO_LOC} {G14}
+	C: ConstraintEditor-2002: [E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/ddr3_ov5640_hdmi.fdc(line number: 325)] | Port cmos_db[6] has been placed at location G14, whose type is share pin.
+
+define_attribue {cmos_db[7]} {PAP_IO_LOC} {G13}
+	C: ConstraintEditor-2002: [E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/ddr3_ov5640_hdmi.fdc(line number: 332)] | Port cmos_db[7] has been placed at location G13, whose type is share pin.
+
+define_attribue {cmos_href} {PAP_IO_LOC} {H14}
+	C: ConstraintEditor-2002: [E:/PDS/PGL22G/CD_20210223/CD_20210223/demo/zhenjiuzhe_ddr3_ov5640_hdmi - 5 - 3/ddr3_ov5640_hdmi.fdc(line number: 339)] | Port cmos_href has been placed at location H14, whose type is share pin.
+
+
+
+
+
+W: ConstraintEditor-4019: Port 'ddr_init_done' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ddrphy_rst_done' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'pll_lock' unspecified I/O constraint.
+
+
+
+Constraints with matching wildcard expressions:
+********************************************
+
+
+
+
+
